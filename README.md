@@ -1,4 +1,4 @@
-# ## Packaging Java 11 + OpenJFX 11 Application in slim runtime
+## Packaging Java 11 + OpenJFX 11 Application in slim runtime
 
 This is a simple sample on how to create a custom jre for a javafx maven project.
 Make sure your java_home points to a proper JDK 11.
